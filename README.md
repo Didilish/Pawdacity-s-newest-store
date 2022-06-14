@@ -1,4 +1,4 @@
-# Pawdacity-s-newest-store
+# Project Select Location of a New Pet Store
 Projects Submitted for Udacity's Predictive Analytics for Business Nanodegree using Alteryx and Tableau.
 
 Scenario
